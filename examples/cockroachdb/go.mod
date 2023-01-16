@@ -7,7 +7,7 @@ require (
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/stretchr/testify v1.8.1
 	github.com/testcontainers/testcontainers-go v0.17.0
-	gotest.tools/gotestsum v1.8.2
+	gotest.tools/gotestsum v1.9.0
 )
 
 replace (
