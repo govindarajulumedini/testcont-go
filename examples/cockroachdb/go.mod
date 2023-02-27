@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgx/v4 v4.17.2
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	github.com/testcontainers/testcontainers-go v0.17.0
 	gotest.tools/gotestsum v1.8.2
 )
